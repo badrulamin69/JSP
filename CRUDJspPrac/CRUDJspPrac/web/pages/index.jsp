@@ -236,7 +236,7 @@
             <div>
                 <h1><i class="bi bi-people"></i> Employee Management</h1>
             </div>
-            <a href="/CRUDJspPrac/pages/Add.jsp" class="btn-add-employee">
+            <a href="pages/Add.jsp" class="btn-add-employee">
                 <i class="bi bi-plus-circle"></i> Add New Employee
             </a>
         </div>
